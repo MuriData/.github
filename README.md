@@ -8,4 +8,4 @@
 </p>
 MuriData is a decentralized retrievable database designed to be the backbone of data for decentralized applications. 
 
-Using both zero-knowledge proof and optimism, it strikes a perfect balance between scalability and security. Database operations and queries are easy to operate and verify, bringing incredible ability of querying data with high performance to dapps.
+Using both zero-knowledge proof and optimism, it strikes a perfect balance between scalability and security. 
