@@ -44,5 +44,6 @@ Any help is appreciated.
 
 -   MuriData Official Website: [https://MURI.moe](https://muri.moe/)
 -   MuriData GitHub: [https://github.com/MuriData](https://github.com/MuriData)
--   Shugetsu Soft GitHub: [https://github.com/ShugetsuSoft](https://github.com/ShugetsuSoft)
+-   MuriData Telegram Group: [https://t.me/muridata](https://t.me/muridata)
+-   Shugetsu Soft GitHub: [https://github.com/ShugetsuSoft](https://github.com/ShugetsuSoft)
 -   Shugetsu Soft Official Website: [https://shugetsu.dev/](https://shugetsu.dev/)
